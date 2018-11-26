@@ -312,13 +312,13 @@ nav ul li a{
   margin: 35px 0 0 10px;
   display: inline-block;
   background-color: teal;
+  display: inline-block;
   vertical-align: top;
 }
 .page2h{
   width: 125px;
   height:250px;
   margin: 20px 0 0 15px;
-  border-radius: ;
   background-color: yellow;
   border-radius: 50%;
 }
@@ -333,7 +333,7 @@ nav ul li a{
 /*page3*/
 .page3{
   width:900px;
-  height:1300px;
+  height:1200px;
   margin: 20px;
   background-color: green;
   padding-top: 1px;
@@ -382,4 +382,217 @@ nav ul li a{
   background-color: red;
   display: inline-block;
   border-radius: 50%;
+}
+.page3g{
+  width:850px;
+  height:350px;
+  margin:20px;
+  background-color: yellow;
+  padding-top: 1px;
+}
+.page3h{
+  width:815px;
+  height:310px;
+  margin:20px;
+  background-color: blue;
+  padding-top:1px;
+}
+.page3i{
+  width:300px;
+  height:290px;
+  margin:10px;
+  background-color:red;
+  display: inline-block;
+  vertical-align: top;
+}
+.page3j{
+  width:270px;
+  height:290px;
+  margin:10px;
+  background-color:red; 
+  display: inline-block;
+}
+.page3k{
+  width:170px;
+  height:290px;
+  margin:10px;
+  background-color: red;
+  display: inline-block;
+}
+.page3o{
+  width:110px;
+  height:250px;
+  margin: 18px;
+  background-color:maroon;
+  display: inline-block;
+  border-radius: 50%;
+}
+.page3m{
+  width:250px;
+  height:110px;
+  margin: 18px;
+  background-color:maroon;
+  border-radius: 50%;
+}
+.page3p{
+  width:100px;
+  height:100px;
+  margin: 35px;
+  background-color:maroon;
+  border-radius: 50%;
+}
+.page3q{
+  width:850px;
+  height:350px;
+  margin:20px;
+  background-color: magenta;
+  padding-top: 1px;
+}
+.page3r{
+  width:820px;
+  height:320px;
+  margin:10px;
+  background-color: orange;
+  padding-top: 1px;
+}
+.page3s{
+  width: 790px;
+  height:300px;
+  margin: 10px;
+  background-color: orangered;
+  padding-top: 1px;
+}
+.page3t{
+  width: 750px;
+  height:260px ;
+  margin:15px ;
+  background-color:saddlebrown; 
+}
+.page3u{
+  width: 110px;
+  height: 110px;
+  margin: 65px 10px 10px 25px;
+  background-color:black ;
+  display: inline-block;
+  border-radius: 50%;
+}
+/*page4*/
+.page4{
+  width:950px;
+  height:1500px;
+  margin:20px;
+  background-color: black;
+}
+.page4a{
+  width:145px;
+  height:250px;
+  margin: 10px;
+  background-color: #FF8800;  
+  display: inline-block;
+}
+.page4b{
+  width: 85px;
+  height: 250px;
+  margin: 10px;
+  background-color:  #FF8800;
+  display: inline-block;
+}
+.page4c{
+  width:100px;
+  height:100px;
+  margin:15px 0 0 20px;
+  background-color:blue;
+  border-radius: 50%;
+}
+.page4d{
+  width:110px;
+  height:215px;
+  margin:15px 0 0 15px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.page4e{
+  width:340px;
+  height:350px;
+  margin:10px;
+  background-color:blue; 
+  display: inline-block;
+  vertical-align: top;
+}
+.page4f{
+  width:560px;
+  height:350px;
+  margin:10px;
+  background-color:blue; 
+  display: inline-block;
+}
+.page4g{
+  width:320px;
+  height:95px;
+  margin:10px;
+  background-color: #FF8800;
+  padding-top: 1px;
+}
+.page4h{
+  width: 120px;
+  height:210px;
+  margin:10px 0 0 30px;
+  background-color:#FF8800 ;
+  display: inline-block;
+}
+.page4i{
+  width:300px;
+  height:70px;
+  margin:10px 0 0 10px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.page4j{
+  width:70px;
+  height:200px;
+  margin:5px 0 10px 25px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.page4k{
+  width:80px;
+  height:80px;
+  margin:15px 0 0 20px;
+  background-color:blue;
+  border-radius: 50%;
+}
+.page4l{
+  width:539px;
+  height:330px;
+  margin:10px ;
+  background-color:#FF8800 ;
+  padding-top: 1px;
+}
+.page4m{
+  width:519px;
+  height:309px;
+  margin:10px;
+  background-color: blue;
+  padding-top: 1px;
+}
+.page4n{
+  width:150px;
+  height:290px;
+  margin:10px;
+  background-color:#FF8800; 
+  display: inline-block;
+}
+.page4ñ{
+  width:100px;
+  height:100px;
+  margin:80px 0 0 25px;
+  background-color:blue;
+  border-radius: 50%;
+}
+.page4o{
+  width:340px;
+  height:350px;
+  margin: 10px;
+  
+
 }
