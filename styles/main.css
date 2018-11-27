@@ -479,7 +479,7 @@ nav ul li a{
 /*page4*/
 .page4{
   width:950px;
-  height:1500px;
+  height:1360px;
   margin:20px;
   background-color: black;
 }
@@ -590,9 +590,522 @@ nav ul li a{
   border-radius: 50%;
 }
 .page4o{
-  width:340px;
-  height:350px;
+  width:280px;
+  height:320px;
   margin: 10px;
-  
+  background-color: #FF8800;
+  display: inline-block;
+}
+.page4p{
+  width:300px;
+  height:320px;
+  margin:10px;
+  background-color: #FF8800;
+  display: inline-block;
+}
+.page4q{
+  width:255px;
+  height:295px;
+  margin:10px;
+  background-color:blue ;
+  padding-top: 1px;
+}
+.page4r{
+  width:190px;
+  height:135px;
+  margin:10px 0 0 25px;
+  background-color:#FF8800;
+  padding-top: 1px;
+}
+.page4t{
+  width:190px;
+  height:135px;
+  margin:10px 0 0 25px;
+  background-color:#FF8800;
+  border-radius: 50%;
+}
+.page4u{
+  width:110px;
+  height:110px;
+  margin:10px 0 0 35px;
+  background-color:blue;
+  border-radius: 50%;
+}
+.page4v{
+  width:280px;
+  height:300px;
+  margin:10px;
+  background-color:blue;
+  padding-top: 1px;
+}
+.page4w{
+  width:260px;
+  height:275px;
+  margin:10px;
+  background-color:#FF8800 ;
+  border-radius: 50%;
+}
+.page4x{
+  width:190px;
+  height:135px;
+  margin:10px 0 0 45px;
+  background-color:#FF8800;
+  border-radius: 50%;
+}
+.page4y{
+  width:190px;
+  height:135px;
+  margin:10px 0 0 45px;
+  background-color:#FF8800;
+  padding-top: 1px;
+}
+.page4z{
+  width:925px;
+  height:240px;
+  margin:10px;
+  background-color:blue;
+  padding-top: 1px;
+}
+.page42{
+  width:170px;
+  height:170px;
+  margin: 30px 0 0 10px;
+  background-color: #FF8800;
+  display: inline-block;
+}
+.page41{
+  width:150px;
+  height: 150px;
+  margin: 10px;
+  background-color: blue;
+  border-radius: 50%;
+}
+.page43{
+  width:150px;
+  height:60px;
+  margin: 17px 0 0 10px;
+  background-color: blue;
+  border-radius: 50%;
+}
+/*page5*/
+.page5{
+  width:1000px;
+  height:1300px;
+  margin:20px;
+  background-color: maroon;
+  padding-top: 1px;
+}
+.page5a{
+  width: 300px;
+  height:950px;
+  margin:15px 0 0 20px;
+  background-color:gold;
+  display: inline-block;
+  vertical-align: top; 
+}
+.page5b{
+  width:115px;
+  height:220px;
+  margin:10px 0 0 20px;
+  background-color:red;
+  display: inline-block;
+}
+.page5c{
+  width:100px;
+  height:100px;
+  margin:5px 0 0 10px;
+  background-color: black;
+  border-radius: 50%;
+}
+.page5d{
+  width:100px;
+  height:200px;
+  margin:10px 5px 0 8px;
+  background-color:black;
+  border-radius: 50%;
+}
+.page5e{
+  width:265px;
+  height:150px;
+  margin:10px 0 0 15px;
+  background-color: red;
+}
+.page5f{
+  width:110px;
+  height:110px;
+  margin:20px 0 0 15px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+}
+.page5g{
+  width:80px;
+  height:80px;
+  margin:20px 0 0 20px;
+  background-color: black;
+  border-radius: 50%;
+}
+.page5h{
+  width:265px;
+  height:290px;
+  margin:10px 0 0 15px;
+  background-color: red;
+}
+.page5i{
+  width:95px;
+  height:95px;
+  margin:10px 0 0 25px;
+  background-color:black;
+  border-radius: 50%;
+  display: inline-block;
+}
+.page5j{
+  width:80px;
+  height:50px;
+  margin:10px 0 0 92px;
+  background-color:black;
+}
+.page5k{
+  width:190px;
+  height:95px;
+  margin:10px 0 0 40px;
+  background-color:black;
+}
+.page5l{
+  width:265px;
+  height:290px;
+  margin:10px 0 0 15px;
+  background-color: red;
+}
+.page5m{
+  width:95px;
+  height:95px;
+  margin:10px 0 0 25px;
+  background-color:black;
+  border-radius: 50%;
+  display: inline-block;
+}
+.page5n{
+  width:50px;
+  height:80px;
+  margin:5px 0 0 110px;
+  background-color:black;
+}
+.page5ñ{
+  width:190px;
+  height:80px;
+  margin:10px 0 0 40px;
+  background-color:black;
+}
+.page5o{
+  width:125px;
+  height:230px;
+  margin:10px;
+  background-color:red;
+  display: inline-block;
+}
+.page5p{
+  width:100px;
+  height:100px;
+  margin:10px 0 0 15px;
+  background-color:black ;
+  border-radius: 50%;
+}
+.page5q{
+  width:110px;
+  height:200px;
+  margin:10px 0 0 25px;
+  background-color: red;
+  display: inline-block;
+}
+.page5r{
+  width:95px;
+  height:180px;
+  margin:10px 0 0 8px;
+  background-color:black;
+  display: inline-block;
+  border-radius: 50%;
+}
+.page5s{
+  width:150px;
+  height:160px;
+  margin:10px;
+  background-color:red ;
+  display: inline-block;
+}
+.page5t{
+  width:105px;
+  height:160px;
+  margin:10px 0 0 10px ;
+  background-color:red ;
+  display: inline-block;
+  vertical-align: top;
+}
+.page5u{
+  width:120px;
+  height:120px;
+  margin:20px 0 0 15px;
+  background-color: black;
+  border-radius: 50%;
+}
+.page5v{
+  width:85px;
+  height:135px;
+  margin:10px;
+  background-color: black;
+  border-radius: 50%;
+}
+.page5x{
+  width:275px;
+  height:220px;
+  margin:5px 0 0 10px;
+  background-color: red;
+}
+.page5y{
+  width:275px;
+  height:220px;
+  margin:5px 0 0 10px;
+  background-color: red;
+  padding-top: 1px;
+}
+.page5z{
+  width: 85px;
+  height: 85px;
+  margin: 10px 0 0 30px;
+  background-color: black;
+  display: inline-block;
+  border-radius: 50%;
+}
+.page51{
+  width:250px;
+  height:95px;
+  margin:10px 0 0 10px;
+  background-color: black;
+  padding-top: 1px;
+}
+.page52{
+  width:100px;
+  height:100px;
+  margin:10px 0 0 85px ;
+  background-color: black;
+  border-radius: 50%;
+}
+.page53{
+  width:225px;
+  height:70px;
+  margin:10px;
+  background-color: red;
+  border-radius: 50%;
+}
+.page54{
+  width:140px;
+  height:280px;
+  margin:10px;
+  background-color:red ;
+  display: inline-block;
+}
+.page55{
+  width:100px;
+  height:280px;
+  margin:10px;
+  background-color:red ;
+  display: inline-block;
+}
+.page56{
+  width: 75px;
+  height: 75px;
+  margin: 10px 0 0 25px ;
+  background-color: black;
+  border-radius: 50%;
+}
+.page57{
+  width:980px;
+  height:295px;
+  margin:20px 0 0 10px;
+  background-color:gold; 
+}
+.page58{
+  width:275px;
+  height:260px;
+  margin:15px 0 0 10px;
+  background-color: red;
+  display: inline-block;
+  vertical-align: top;
+}
+.page59{
+  width:100px;
+  height:100px;
+  margin:10px 0 0 25px;
+  background-color:black;
+  display: inline-block;
+  border-radius: 50%;
+}
+.page511{
+  width:250px;
+  height:100px;
+  margin: 20px 0 0 15px; 
+  background-color:black ;
+  border-radius: 50%;
+}
+.page512{
+  width:387px;
+  height:260px;
+  margin:15px 0 0 10px;
+  background-color: red;
+  display: inline-block;
+  vertical-align: top;
+}
+.page513{
+  width:370px;
+  height:240px;
+  margin:10px 0 0 10px;
+  background-color: black;
+}
+.page514{
+  width:100px;
+  height:100px;
+  margin: 60px 0 0 15px; 
+  background-color:red ;
+  border-radius: 50%;
+  display: inline-block;
+}
+/*page6*/
+.page6{
+  width:950px;
+  height:1200px;
+  margin:20px;
+  background-color: rebeccapurple;
+}
+.page6a{
+  width:240px;
+  height:240px;
+  margin:10px;
+  background-color:blue;
+  display: inline-block;
+  vertical-align: top;
+}
+.page6b{
+  width:400px;
+  height:240px;
+  margin:10px;
+  background-color:blue;
+  display: inline-block;
+}
+.page6c{
+  width:95px ;
+  height:95px;
+  margin:10px;
+  background-color:yellow; 
+  display: inline-block;
+  border-radius: 50%;
+}
+.page6d{
+  width:50px;
+  height:50px;
+  margin:13px -47px 0 44px;
+  background-color: yellow;
+  display: inline-block;
+}
+.page6e{
+  width:105px;
+  height:105px;
+  margin:65px 0 0 20px;
+  background-color: yellow;
+  display: inline-block;
+}
+.page6f{
+  width:75px;
+  height:75px;
+  margin:15px 0 0 16px ;
+  background-color:red;
+  display: inline-block;
+  border-radius: 50%;
+}
+.page6g{
+  width:200px;
+  height:350px;
+  margin:10px;
+  background-color: yellow;
+  display: inline-block;
+}
+.page6h{
+  width:250px;
+  height: 350px;
+  margin:10px;
+  background-color:yellow;
+  display: inline-block;
+}
+.page6i{
+  width:150px;
+  height:150px;
+  margin:15px 0 0 20px ;
+  background-color:red;
+  border-radius: 50%;
+}
+.page6j{
+  width:100px;
+  height:100px;
+  margin:15px 0 0 50px ;
+  background-color:red;
+  border-radius: 50%;
+}
+.page6k{
+  width:220px;
+  height:220px;
+  margin:50px 0 0 20px ;
+  background-color:red;
+  border-radius: 50%;
+}
+.page6m{
+  width:100px;
+  height:100px;
+  margin:15px 0 0 50px;
+  background-color:red;
+  padding-top: 1px;
+}
+.page6n{
+  width: 70px;
+  height: 70px;
+  margin: 15px 0 0 15px;
+  background-color: black;
+  border-radius: 50%;
+}
+.page6ñ{
+  width:100px;
+  height:190px;
+  margin: 15px 0 0 50px;
+  background-color: red;
+  vertical-align: top;
+  padding-top: 1px;
+}
+.page6o{
+  width:919px ;
+  height:528px;
+  margin:10px;
+  background-color:black ;
 
+}
+.page6p{
+  width:206px;
+  height:240px;
+  margin:10px;
+  background-color:blue;
+  display: inline-block;
+  vertical-align: top;
+}
+.page6q{
+  width:95px ;
+  height:95px;
+  margin:10px 0 0 50px;
+  background-color:yellow; 
+  display: inline-block;
+  border-radius: 50%;
+}
+.page6r{
+  width:50px;
+  height:50px;
+  margin:13px -47px 0 15px;
+  background-color: yellow;
+  display: inline-block;
+  vertical-align: top;
 }
