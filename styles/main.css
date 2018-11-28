@@ -1102,10 +1102,30 @@ nav ul li a{
   border-radius: 50%;
 }
 .page6r{
-  width:50px;
-  height:50px;
-  margin:13px -47px 0 15px;
+  width:30px;
+  height:30px;
+  margin:10px -36px -67px -30px;
   background-color: yellow;
   display: inline-block;
-  vertical-align: top;
+}
+.page6s{
+  width:436px;
+  height:250px;
+  margin:10px;
+  background-color: red;
+  display:inline-block;
+}
+.page6t{
+  width:415px;
+  height:230px;
+  margin:10px;
+  background-color:beige;
+}
+.page6u{
+  width:120px;
+  height:120px;
+  margin:50px 0 0 10px;
+  background-color:fuchsia;
+  display: inline-block;
+  border-radius: 50%;
 }
